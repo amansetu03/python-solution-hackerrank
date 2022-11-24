@@ -1,1 +1,1 @@
-# python-solution-hackerrank
+# python-solution-hackerrank for 5 star
